@@ -1,0 +1,12 @@
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\MySite.dll.config
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\MySite.dll
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\MySite.pdb
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\EntityFramework.dll
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\EntityFramework.SqlServer.dll
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\Newtonsoft.Json.dll
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\EntityFramework.xml
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\EntityFramework.SqlServer.xml
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\bin\Newtonsoft.Json.xml
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\obj\Debug\MySite.csprojResolveAssemblyReference.cache
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\obj\Debug\MySite.dll
+C:\Users\Nazarov\Documents\Visual Studio 2013\Projects\MySite\MySite\obj\Debug\MySite.pdb
